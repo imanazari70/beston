@@ -1,2 +1,10 @@
 db.sqlite3
 .idea
+
+# Django #
+*.log
+*.pot
+__pycache__
+media
+*.py[co]
+*.pyc
